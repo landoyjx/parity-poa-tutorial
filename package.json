@@ -1,0 +1,23 @@
+{
+  "name": "parity-poa-tutorial",
+  "version": "1.0.0",
+  "description": "A complete set of files produced in the Parity PoA chain tutorial.",
+  "main": "index.js",
+  "dependencies": {
+    "web3": "^0.20.7"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/openethereum/parity-poa-tutorial.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/openethereum/parity-poa-tutorial/issues"
+  },
+  "homepage": "https://github.com/openethereum/parity-poa-tutorial#readme"
+}
